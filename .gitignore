@@ -1,0 +1,4 @@
+huggingface_nlp_course/test-trainer/checkpoint-500/model.safetensors
+huggingface_nlp_course/test-trainer/checkpoint-1000/model.safetensors
+huggingface_nlp_course/test-trainer/checkpoint-1000/optimizer.pt
+huggingface_nlp_course/test-trainer/checkpoint-500/optimizer.pt
