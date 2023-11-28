@@ -6,3 +6,4 @@ pip install datasets[audio]
 pip install datasets[vision]
 pip install transformers[torch]
 pip install ipywidgets
+pip install evaluate
