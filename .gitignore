@@ -2,3 +2,9 @@ huggingface_nlp_course/test-trainer/checkpoint-500/model.safetensors
 huggingface_nlp_course/test-trainer/checkpoint-1000/model.safetensors
 huggingface_nlp_course/test-trainer/checkpoint-1000/optimizer.pt
 huggingface_nlp_course/test-trainer/checkpoint-500/optimizer.pt
+huggingface_nlp_course/drugsCom_raw.zip.1
+huggingface_nlp_course/drugsCom_raw.zip
+huggingface_nlp_course/drugsComTrain_raw.tsv
+huggingface_nlp_course/drugsComTest_raw.tsv
+huggingface_nlp_course/SQuAD_it-test.json
+huggingface_nlp_course/SQuAD_it-train.json
